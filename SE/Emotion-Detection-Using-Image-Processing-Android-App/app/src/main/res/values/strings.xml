@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeedDetection</string>
+    <string name="app_name_empty">Seed Testing</string>
+</resources>
